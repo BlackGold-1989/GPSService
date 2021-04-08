@@ -1,4 +1,4 @@
-# gpsjournal
+# GPS Service
 
 A new Flutter application.
 
